@@ -10,8 +10,13 @@ Glider-Drone (Drone without motors or other source of energy other than thermals
 *** OBJECTIVES ***
 
 1) General Approach to Design Variables (Weight, Drag, Lift, thrust)
+    Center of mass
+   
 
 2)AI Driven (Gliding Algorithm)
+
+openCV
+Numpy
 
 Its designed so it may:
 +Land 
